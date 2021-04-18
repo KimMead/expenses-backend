@@ -8,4 +8,4 @@ Rails.application.routes.draw do
   end 
 end
 
-fetch(`http://localhost:3000/api/v1/transactions`)
+
